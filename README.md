@@ -9,6 +9,6 @@ You can copy the script as is. Make sure you complete the following steps before
 
 3. Run the script with the following command - ./403-EVADER.sh https://fake-example.com ./
 
-This will execute the script, use https://fake-example.com as the target url, and put the dirb_result.txt output file in the same directory.
+This will execute the script, use https://fake-example.com as the target url (this is a fake url please use the actual url of your target host), and put the dirb_result.txt output file in the same directory.
 
 Please only use this for legal and ethical penetration testing purposes.
