@@ -4,7 +4,7 @@
 
 # Check for the required arguments
 if [ $# -ne 2 ]; then
-    echo "Usage: ./403-evasion.sh <target_url> <output_dir>"
+    echo "Usage: ./403-EVADER.sh <target_url> <output_dir>"
     exit 1
 fi
 
