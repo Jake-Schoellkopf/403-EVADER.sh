@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: ./403-evasion.sh <target_url> <output_dir>
+# Usage: ./403-EVADER.sh <target_url> <output_dir>
 
 # Check for the required arguments
 if [ $# -ne 2 ]; then
